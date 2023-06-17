@@ -1,2 +1,3 @@
-# design-studio
-Design studio
+# Design Studio
+
+Design Studio
